@@ -1,0 +1,15 @@
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Logging.dll
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Logging.pdb
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Logging.xml
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Settings.dll
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Toolbox.dll
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Settings.pdb
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Settings.xml
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Toolbox.pdb
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\bin\Release\Indictus.Common.Toolbox.xml
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.vbprojResolveAssemblyReference.cache
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.Resources.resources
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.vbproj.GenerateResource.Cache
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.dll
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.xml
+C:\dev\Indictus\Indictus.Common.Logging\Indictus.Common.Logging\obj\Release\Indictus.Common.Logging.pdb

@@ -1,0 +1,17 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.pdb
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.dll
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.pdb
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\bin\Release\Indictus.Common.Settings.xml
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.vbprojResolveAssemblyReference.cache
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.Resources.resources
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.vbproj.GenerateResource.Cache
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.dll
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.xml
+C:\dev\Indictus\Indictus.Common.Settings\Indictus.Common.Settings\obj\Release\Indictus.Common.Settings.pdb

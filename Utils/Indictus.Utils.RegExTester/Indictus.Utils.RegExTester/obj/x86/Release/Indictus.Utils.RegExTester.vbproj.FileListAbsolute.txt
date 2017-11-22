@@ -1,0 +1,13 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Utils.RegExTester.exe
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Utils.RegExTester.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Utils.RegExTester.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Common.Toolbox.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Common.Toolbox.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\bin\Release\Indictus.Common.Toolbox.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.vbprojResolveAssemblyReference.cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.frmMain.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.exe
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Utils\Indictus.Utils.RegExTester\Indictus.Utils.RegExTester\obj\x86\Release\Indictus.Utils.RegExTester.pdb

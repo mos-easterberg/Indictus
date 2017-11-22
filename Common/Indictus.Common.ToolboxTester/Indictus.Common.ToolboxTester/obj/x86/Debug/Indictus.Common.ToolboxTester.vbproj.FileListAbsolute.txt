@@ -1,0 +1,14 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxTester.exe.config
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxTester.exe
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxTester.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.ToolboxTester.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.Toolbox.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.Toolbox.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\bin\Debug\Indictus.Common.Toolbox.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.vbprojResolveAssemblyReference.cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.frmMain.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.exe
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.ToolboxTester\Indictus.Common.ToolboxTester\obj\x86\Debug\Indictus.Common.ToolboxTester.pdb

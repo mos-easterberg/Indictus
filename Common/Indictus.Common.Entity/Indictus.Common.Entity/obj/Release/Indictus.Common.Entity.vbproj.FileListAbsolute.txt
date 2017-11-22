@@ -1,0 +1,16 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.pdb
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.dll
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.pdb
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\bin\Release\Indictus.Common.Entity.xml
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.Resources.resources
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.vbproj.GenerateResource.Cache
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.dll
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.xml
+C:\dev\Indictus\Indictus.Common.Entity\Indictus.Common.Entity\obj\Release\Indictus.Common.Entity.pdb

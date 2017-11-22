@@ -1,0 +1,12 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.DAL.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.DAL.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.DAL.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.Settings.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.Settings.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\bin\Release\Indictus.Common.Settings.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.vbprojResolveAssemblyReference.cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.DAL\Indictus.Common.DAL\obj\Release\Indictus.Common.DAL.pdb

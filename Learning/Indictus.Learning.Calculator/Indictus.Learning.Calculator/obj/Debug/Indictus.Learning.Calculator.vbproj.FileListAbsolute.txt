@@ -1,0 +1,10 @@
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\bin\Debug\Indictus.Learning.Calculator.exe
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\bin\Debug\Indictus.Learning.Calculator.pdb
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\bin\Debug\Indictus.Learning.Calculator.xml
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.vbprojResolveAssemblyReference.cache
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.Resources.resources
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.vbproj.GenerateResource.Cache
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.exe
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.xml
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.pdb
+C:\dev\Indictus\Indictus.Learning.Calculator\Indictus.Learning.Calculator\obj\Debug\Indictus.Learning.Calculator.frmMain.resources

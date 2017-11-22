@@ -1,0 +1,9 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\bin\Debug\Indictus.Common.Forms.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\bin\Debug\Indictus.Common.Forms.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\bin\Debug\Indictus.Common.Forms.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.frmFormBase.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Forms\Indictus.Common.Forms\obj\Debug\Indictus.Common.Forms.pdb

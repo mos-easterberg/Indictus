@@ -1,0 +1,16 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.pdb
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.dll
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.pdb
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\bin\Release\Indictus.Common.Resources.xml
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.Resources.resources
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.vbproj.GenerateResource.Cache
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.dll
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.xml
+C:\dev\Indictus\Indictus.Common.Resources\Indictus.Common.Resources\obj\Release\Indictus.Common.Resources.pdb

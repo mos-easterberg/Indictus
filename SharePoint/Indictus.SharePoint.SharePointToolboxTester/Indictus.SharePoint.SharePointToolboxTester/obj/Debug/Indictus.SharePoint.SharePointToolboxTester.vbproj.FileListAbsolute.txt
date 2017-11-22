@@ -1,0 +1,25 @@
+C:\Users\mosterbe\AppData\Local\Temporary Projects\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxTester.exe.config
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.vbprojResolveAssemblyReference.cache
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.Resources.resources
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.vbproj.GenerateResource.Cache
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxTester.exe.config
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxTester.exe
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxTester.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxTester.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Toolbox.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolbox.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxC.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Settings.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Toolbox.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Toolbox.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolboxC.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolbox.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.SharePoint.SharePointToolbox.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Settings.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\bin\Debug\Indictus.Common.Settings.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.exe
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester\obj\Debug\Indictus.SharePoint.SharePointToolboxTester.frmOne.resources

@@ -1,0 +1,17 @@
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.SharePoint.SharePointToolbox.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.SharePoint.SharePointToolbox.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.SharePoint.SharePointToolbox.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Toolbox.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Settings.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Toolbox.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Toolbox.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Settings.pdb
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\bin\Debug\Indictus.Common.Settings.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.vbprojResolveAssemblyReference.cache
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.Resources.resources
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.vbproj.GenerateResource.Cache
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.dll
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.xml
+D:\dev\Indictus\SharePoint\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\obj\Debug\Indictus.SharePoint.SharePointToolbox.pdb

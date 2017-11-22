@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Indictus.SharePoint.SharePointToolboxTester", "Indictus.SharePoint.SharePointToolboxTester\Indictus.SharePoint.SharePointToolboxTester.vbproj", "{5391CB50-D1D4-4DC4-B94E-7F9B016A435E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Indictus.SharePoint.SharePointToolbox", "..\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox\Indictus.SharePoint.SharePointToolbox.vbproj", "{54285A8D-D65C-4065-B69E-E11C1FEE8EAC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Indictus.Common.Toolbox", "..\..\Indictus.Common.Toolbox\Indictus.Common.Toolbox\Indictus.Common.Toolbox.vbproj", "{ECC8955E-A745-4524-BBA5-29CE864C7919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indictus.SharePoint.SharePointToolboxC", "..\Indictus.SharePoint.SharePointToolboxC\Indictus.SharePoint.SharePointToolboxC\Indictus.SharePoint.SharePointToolboxC.csproj", "{76D174FA-DFB3-4620-B4E5-0B5B3A947161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5391CB50-D1D4-4DC4-B94E-7F9B016A435E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5391CB50-D1D4-4DC4-B94E-7F9B016A435E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5391CB50-D1D4-4DC4-B94E-7F9B016A435E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5391CB50-D1D4-4DC4-B94E-7F9B016A435E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54285A8D-D65C-4065-B69E-E11C1FEE8EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54285A8D-D65C-4065-B69E-E11C1FEE8EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54285A8D-D65C-4065-B69E-E11C1FEE8EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54285A8D-D65C-4065-B69E-E11C1FEE8EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC8955E-A745-4524-BBA5-29CE864C7919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC8955E-A745-4524-BBA5-29CE864C7919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC8955E-A745-4524-BBA5-29CE864C7919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC8955E-A745-4524-BBA5-29CE864C7919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D174FA-DFB3-4620-B4E5-0B5B3A947161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D174FA-DFB3-4620-B4E5-0B5B3A947161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D174FA-DFB3-4620-B4E5-0B5B3A947161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D174FA-DFB3-4620-B4E5-0B5B3A947161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

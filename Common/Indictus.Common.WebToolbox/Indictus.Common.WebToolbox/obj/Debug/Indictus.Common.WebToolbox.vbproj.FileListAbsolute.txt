@@ -1,0 +1,15 @@
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.Resources.resources
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.vbproj.GenerateResource.Cache
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.WebToolbox.dll
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.WebToolbox.pdb
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.WebToolbox.xml
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Toolbox.dll
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Settings.dll
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Toolbox.pdb
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Toolbox.xml
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Settings.pdb
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\bin\Debug\Indictus.Common.Settings.xml
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.vbprojResolveAssemblyReference.cache
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.dll
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.xml
+D:\dev\Indictus\Common\Indictus.Common.WebToolbox\Indictus.Common.WebToolbox\obj\Debug\Indictus.Common.WebToolbox.pdb

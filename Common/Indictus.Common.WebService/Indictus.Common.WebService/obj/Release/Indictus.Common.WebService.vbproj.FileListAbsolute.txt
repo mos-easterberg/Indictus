@@ -1,0 +1,8 @@
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\bin\Release\Indictus.Common.WebService.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\bin\Release\Indictus.Common.WebService.pdb
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\bin\Release\Indictus.Common.WebService.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\obj\Release\Indictus.Common.WebService.Resources.resources
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\obj\Release\Indictus.Common.WebService.vbproj.GenerateResource.Cache
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\obj\Release\Indictus.Common.WebService.dll
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\obj\Release\Indictus.Common.WebService.xml
+C:\Users\MOS013\OneDrive\dev\Indictus\Indictus.Common.WebService\Indictus.Common.WebService\obj\Release\Indictus.Common.WebService.pdb
